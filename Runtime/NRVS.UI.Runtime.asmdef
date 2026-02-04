@@ -3,6 +3,7 @@
     "rootNamespace": "NRVS.UI",
     "references": [
         "GUID:174fee87767d3c7458def8e56b5ebc03",
+        "GUID:b87630d7f5c8d124cbe638bbafb3349f",
         "GUID:a5d24416947991344b07fcfb8bdcb19d",
         "GUID:ead118b427c67984ea6f5e87c6003204",
         "GUID:aeb2f07fa32afa44895c8986372ca605",
