@@ -9,7 +9,7 @@ public class InputActionBindingDisplayUtility : MonoBehaviour
 	public InputDisplayOverrides inputDisplayOverrides;
 
 	[Header("Dependencies")]
-	public Input.InputManager inputManager;
+	public NRVS.Input.InputManager inputManager;
 
 
 	#region Input Action Bindings
